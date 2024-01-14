@@ -58,6 +58,7 @@ button {
 
 button:hover {
     background: #f67c14;
+    color: #24272C;
 }
 
 .ac,
@@ -66,7 +67,7 @@ button:hover {
 }
 
 .equalBtn {
-    background: #f67c14;
+    background: #24272C;
 }
 
 .operator {
