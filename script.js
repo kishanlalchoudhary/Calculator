@@ -23,12 +23,8 @@ buttonsArray.forEach(function (btn) {
         alert("Invalid Input!");
       }
     } else {
-      if (string.length > 7) {
-        alert("No of Digits Exceeded!");
-      } else {
-        string += event.target.innerHTML;
-        display.value = string;
-      }
+      string += event.target.innerHTML;
+      display.value = string;
     }
   });
 });
