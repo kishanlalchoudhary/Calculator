@@ -47,7 +47,7 @@ button {
     width: 60px;
     height: 60px;
     margin: 10px;
-    color: #fff;
+    color: #7F8493;
     background: #24272C;
     font-size: 24px;
     cursor: pointer;
@@ -74,5 +74,5 @@ button:hover {
 }
 
 .operator:hover {
-    color: #fff;
+    color: #7F8493;
 }
