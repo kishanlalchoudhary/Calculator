@@ -67,7 +67,8 @@ button:hover {
 }
 
 .equalBtn {
-    background: #24272C;
+    background: #f67c14;
+    color: #24272c;
 }
 
 .operator {
@@ -75,5 +76,5 @@ button:hover {
 }
 
 .operator:hover {
-    color: #7F8493;
+    color: #24272C;
 }
