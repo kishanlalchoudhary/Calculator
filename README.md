@@ -1,5 +1,5 @@
 ﻿# Neumorphic Calculator
 
-![Screenshot (770)](https://github.com/kishanlalchoudhary/Calculator/assets/107745828/62e13aac-0bb8-4c97-a103-4b867784045a)
-![Screenshot (771)](https://github.com/kishanlalchoudhary/Calculator/assets/107745828/bca3933e-bc71-4eb0-a074-7edfd1bc016c)
-![Screenshot (772)](https://github.com/kishanlalchoudhary/Calculator/assets/107745828/5fe41bfc-95df-48bc-83d2-0e2b74d3724e)
+![Screenshot (773)](https://github.com/kishanlalchoudhary/Neumorphic-Calculator/assets/107745828/2acacdc6-4d77-4124-8f49-5e6ed5f1bd93)
+![Screenshot (774)](https://github.com/kishanlalchoudhary/Neumorphic-Calculator/assets/107745828/fc749059-925a-4f8c-8e05-2c6dab71eb91)
+![Screenshot (775)](https://github.com/kishanlalchoudhary/Neumorphic-Calculator/assets/107745828/b92ee557-74b1-4454-8940-730d4f4e6bcf)
